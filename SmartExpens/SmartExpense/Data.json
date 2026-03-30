@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sunil",
+      "email": "sunil@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "email": "rahul@gmail.com"
+    }
+  ],
+  "Expenses": [
+    {
+      "id": 1767872983738,
+      "ExpenseName": "Common Bill",
+      "Amount": 600,
+      "PaidBy": "Sudhir",
+      "CategoryBy": "Electriciy",
+      "Split": [
+        "Ved",
+        "Sunil",
+        "Sudhir",
+        "Harshit",
+        "Vishal"
+      ]
+    },
+    {
+      "id": 1767872994732,
+      "ExpenseName": "Common Bill",
+      "Amount": 30,
+      "PaidBy": "Ved",
+      "CategoryBy": "Electriciy",
+      "Split": [
+        "Ved",  
+        "Sunil"
+      ]
+    },
+    {
+      "id": 1767875806384,
+      "ExpenseName": "",
+      "Amount": 270,
+      "PaidBy": "",
+      "CategoryBy": "",
+      "Split": []
+    },
+    {
+      "id": 1767954211987,
+      "ExpenseName": "dhhehew",
+      "Amount": 455,
+      "PaidBy": "Ved",
+      "CategoryBy": "Electriciy",
+      "Split": [
+        "Sudhir",
+        "Ved",
+        "Harshit"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "8288",
+      "name": "Sunnu",
+      "password": "vasu@1114",
+      "email": "npsofoact@gmail.com"
+    },
+    {
+      "id": "efc6",
+      "name": "Sunil",
+      "password": "iewjoijewoiew",
+      "email": "nadjoija"
+    },
+    {
+      "id": "df38",
+      "name": "Sunil",
+      "password": "iewjoijewoiew",
+      "email": ""
+    },
+    {
+      "id": "2407",
+      "name": "Sunil",
+      "password": "iewjoijewoiew",
+      "email": ""
+    },
+    {
+      "id": "26a2",
+      "name": "dahxiwqh",
+      "password": "ojewoe",
+      "email": "oihewoh"
+    },
+    {
+      "id": "d9a0",
+      "name": "Sunil",
+      "password": "jjjjj",
+      "email": "npsofoact@gmail.com"
+    },
+    {
+      "id": "3dbc",
+      "name": "ewew",
+      "password": "e",
+      "email": "w"
+    },
+    {
+      "id": "e034",
+      "name": "ewew",
+      "password": "e",
+      "email": "w"
+    },
+    {
+      "id": "b6b1",
+      "name": "ewew",
+      "password": "e",
+      "email": "w"
+    },
+    {
+      "id": "1fc2",
+      "name": "ewew",
+      "password": "e",
+      "email": "w"
+    },
+    {
+      "id": "face",
+      "name": "wewe",
+      "password": "krepopj",
+      "email": "kdsjej"
+    },
+    {
+      "id": "311f",
+      "name": "Nishant",
+      "password": "vasu@1114",
+      "email": "npsofoact@gmail.com"
+    },
+    {
+      "id": "bca3",
+      "name": "Vaishnavi",
+      "password": "vaasu@1114",
+      "email": "SunnuAishu@gmail.com"
+    }
+  ]
+}

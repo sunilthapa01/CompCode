@@ -1,0 +1,258 @@
+{
+  "formJson": [
+    {
+      "id": 1770101107994,
+      "label": "Text",
+      "name": "List",
+      "type": "text",
+      "placeholder": "Enter Something",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": 2,
+      "maxLength": 50,
+      "option": []
+    },
+    {
+      "id": 1770101107994,
+      "label": "Text",
+      "name": "List",
+      "type": "text",
+      "placeholder": "Enter Something",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": 2,
+      "maxLength": 50,
+      "option": []
+    },
+    {
+      "id": 1770103257904,
+      "label": "",
+      "name": "",
+      "type": "number",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770103257904,
+      "label": "",
+      "name": "",
+      "type": "number",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770103357522,
+      "label": "",
+      "name": "",
+      "type": "number",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770103357522,
+      "label": "",
+      "name": "",
+      "type": "number",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120901627,
+      "label": "Email",
+      "name": "Email",
+      "type": "email",
+      "placeholder": "enter  email",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": 2,
+      "maxLength": 10,
+      "option": []
+    },
+    {
+      "id": 1770120901627,
+      "label": "Email",
+      "name": "Email",
+      "type": "email",
+      "placeholder": "enter  email",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": 2,
+      "maxLength": 10,
+      "option": []
+    },
+    {
+      "id": 1770120906776,
+      "label": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120906776,
+      "label": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120917534,
+      "label": "jewjoi",
+      "name": "jrejoirej",
+      "type": "",
+      "placeholder": "kjrpjrpoj",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": 1000,
+      "option": []
+    },
+    {
+      "id": 1770120917534,
+      "label": "jewjoi",
+      "name": "jrejoirej",
+      "type": "",
+      "placeholder": "kjrpjrpoj",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": 1000,
+      "option": []
+    },
+    {
+      "id": 1770120924404,
+      "label": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120924404,
+      "label": "",
+      "name": "",
+      "type": "",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120929251,
+      "label": "",
+      "name": "",
+      "type": "password",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120929251,
+      "label": "",
+      "name": "",
+      "type": "password",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": []
+    },
+    {
+      "id": 1770120939133,
+      "label": "",
+      "name": "",
+      "type": "radio",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": [
+        "Male",
+        "Female"
+      ]
+    },
+    {
+      "id": 1770120939133,
+      "label": "",
+      "name": "",
+      "type": "radio",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": [
+        "Male",
+        "Female"
+      ]
+    },
+    {
+      "id": 1770120968989,
+      "label": "",
+      "name": "",
+      "type": "radio",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": [
+        "Male",
+        "Female ",
+        "Other"
+      ]
+    },
+    {
+      "id": 1770120968989,
+      "label": "",
+      "name": "",
+      "type": "radio",
+      "placeholder": "",
+      "isRequired": false,
+      "defaultValue": "",
+      "minLength": "",
+      "maxLength": "",
+      "option": [
+        "Male",
+        "Female ",
+        "Other"
+      ]
+    }
+  ]
+}
